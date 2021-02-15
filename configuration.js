@@ -17,6 +17,7 @@ exports.config =
     suites:
     {
         Smoke: 'AccessJSObjectDemo.js',
+        regression: 'TestCalculatorSite.js',
     },
     jasmineNodeOpts:
     {
